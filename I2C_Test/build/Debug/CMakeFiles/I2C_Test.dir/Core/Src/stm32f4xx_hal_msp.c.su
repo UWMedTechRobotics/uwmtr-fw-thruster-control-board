@@ -1,3 +1,0 @@
-C:/Users/adria/Projects/ESC_V1_Firmware_Tests/I2C_Test/Core/Src/stm32f4xx_hal_msp.c:62:6:HAL_MspInit	16	static
-C:/Users/adria/Projects/ESC_V1_Firmware_Tests/I2C_Test/Core/Src/stm32f4xx_hal_msp.c:85:6:HAL_I2C_MspInit	48	static
-C:/Users/adria/Projects/ESC_V1_Firmware_Tests/I2C_Test/Core/Src/stm32f4xx_hal_msp.c:122:6:HAL_I2C_MspDeInit	16	static
